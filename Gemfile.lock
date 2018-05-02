@@ -29,6 +29,7 @@ GEM
     pond (0.3.0)
     powerpack (0.1.1)
     public_suffix (3.0.2)
+    puma (3.11.4)
     rack (2.0.4)
     rack-protection (2.0.1)
       rack
@@ -86,6 +87,7 @@ DEPENDENCIES
   capybara
   pg
   pond
+  puma
   rake
   rspec
   rubocop
